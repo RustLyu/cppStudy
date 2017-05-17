@@ -1,1 +1,1 @@
-# test
+C and C++ test small function
